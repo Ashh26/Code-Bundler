@@ -1,0 +1,3 @@
+[submodule "codebundlerserver"]
+	path = codebundlerserver
+	url = https://github.com/Ashh26/Code-Bundler.git
